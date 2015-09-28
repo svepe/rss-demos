@@ -1,8 +1,8 @@
 # RSS Demos
 
-This repository contains computer vision demos for the RSS module at the School of Informatics at The University of Edinburgh.
+This repository contains computer vision demos for the RSS module at the School of Informatics, The University of Edinburgh.
 
-Each demo is an IPython Notebook can be run with an IPython Notebook server. In order to execute the code you have to run the IPython Notebook on a computer with Python 2.7 and OpenCV 3.0. 
+Each demo is an IPython Notebook which can be run with an IPython Notebook server. In order to execute the code you have to run the IPython Notebook on a computer with Python 2.7 and OpenCV 3.0. 
 
 Alternatively, the demos can be viewed with the [IPython Notebook Viewer](http://nbviewer.ipython.org). Here is a list of the demos loaded in the IPython Notebook Viewer:
 
