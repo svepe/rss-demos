@@ -9,5 +9,8 @@ Alternatively, the demos can be viewed with the [IPython Notebook Viewer](http:/
 1. [Colour Histogram](http://nbviewer.ipython.org/github/svepe/rss-demos/blob/dev/Colour%20Histogram.ipynb)
 2. [Panorama Stitching](http://nbviewer.ipython.org/github/svepe/rss-demos/blob/dev/Panorama%20Stitching.ipynb)
 3. [Camera Calibration](http://nbviewer.ipython.org/github/svepe/rss-demos/blob/dev/Camera%20Calibration.ipynb)
+4. [Keypoints and Feature Descriptors Matching](http://nbviewer.ipython.org/github/svepe/rss-demos/blob/dev/Keypoints%20and%20Feature%20Descriptors%20Matching.ipynb)
+
+
 
 
