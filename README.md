@@ -12,6 +12,7 @@ Alternatively, the demos can be viewed with the [IPython Notebook Viewer](http:/
 4. [Keypoints and Feature Descriptors Matching](http://nbviewer.ipython.org/github/svepe/rss-demos/blob/dev/Keypoints%20and%20Feature%20Descriptors%20Matching.ipynb)
 5. [Image Filtering](http://nbviewer.ipython.org/github/svepe/rss-demos/blob/dev/Image%20Filtering.ipynb)
 6. [Image Segmentation](http://nbviewer.ipython.org/github/svepe/rss-demos/blob/dev/Image%20Segmentation.ipynb)
+7. [Shape Matching](http://nbviewer.ipython.org/github/svepe/rss-demos/blob/dev/Shape%20Matching.ipynb)
 
 
 
